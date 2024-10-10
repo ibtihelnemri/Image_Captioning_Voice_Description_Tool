@@ -1,0 +1,8 @@
+torch
+transformers
+pytesseract
+pillow
+datasets
+gtts
+streamlit
+playsound
